@@ -1,5 +1,9 @@
 # WO!
 
-Hi! I am Priesdelly,  If you need to access my private repo please do follow law of equivalent exchange.
+Hi! I am Priesdelly, If you need to access my private repositoryplease do follow the law of equivalent exchange.
+
+## Changelog
+1 Jan 2022
+- I'm moving my private repo to GitLab because Github can't grouping git repository
 
 :fire::fire::fire:
