@@ -4,6 +4,6 @@ Hi! I am Priesdelly, If you need to access my private repositoryplease do follow
 
 ## Changelog
 1 Jan 2022
-- I'm moving my private repo to GitLab because Github can't grouping git repository
+- I'm moving my private repo to Gitlab because Github can't grouping git repository
 
 :fire::fire::fire:
