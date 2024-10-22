@@ -1,16 +1,16 @@
-# Hi there, I'm Priesdelly! 👋
+# Priesdelly 👋
 
-Welcome to my GitHub profile! If you need to access my private repository, I ask that you please follow the law of equivalent exchange. 🔥🔥🔥
+Welcome to my GitHub profile. Access to private repositories is granted on a reciprocal basis 🔥🔥🔥
 
-## About Me
-I'm a passionate developer with a diverse skill set in various programming languages and DevOps practices.
+## About Me 
+I am a developer with expertise in multiple programming languages and DevOps methodologies.
 
 ## Changelog
 
 ### 1 Jan 2024
-- Started making some of my repositories public to contribute to the open-source community. (I'm a newbie in the open-source world)
+- Initiated open-source contributions by making select repositories public.
 
 ### 1 Jan 2022
-- I moved many of my repositories to GitLab because GitHub couldn't group repositories effectively.
+- Migrated numerous repositories to GitLab for improved organization.
 
-Please feel free to explore my repositories and contact me if you have any collaborations or questions. Let's build awesome things together! 🚀
+I invite you to explore my public repositories. For collaboration inquiries or questions, please don't hesitate to contact me.🚀
